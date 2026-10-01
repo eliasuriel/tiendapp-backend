@@ -1,4 +1,4 @@
-package com.farmacia.tiendapp;
+package com.elias.tiendapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

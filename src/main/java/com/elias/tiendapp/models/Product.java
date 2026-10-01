@@ -1,4 +1,4 @@
-package com.farmacia.tiendapp.models;
+package com.elias.tiendapp.models;
 
 
 import jakarta.persistence.*;
